@@ -1,0 +1,17 @@
+streamlit
+streamlit-webrtc
+opencv-python
+deepface
+google-generativeai
+gTTS
+pygame
+SpeechRecognition
+PyAudio
+python-dotenv
+langchain 
+langchain_google_genai
+playsound==1.3.0
+deepface
+Pillow
+tk
+tf-keras
